@@ -16,7 +16,7 @@ function Home(){
   );
 
   useEffect(() => {
-    axios.get("http://localhost:3001/items")
+    axios.get("https://nhoodresourcesharing.onrender.com/items")
       .then(res => setItems(res.data))
       .catch(err => console.error(err));
   }, []);

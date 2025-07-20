@@ -1,7 +1,7 @@
-import React,{useState,useEffect} from 'react';
+import React, {useState, useEffect} from 'react';
 import axios from 'axios';
-import { Card, Spin,Button, message } from 'antd';
-import { useParams ,Link } from 'react-router-dom';
+import { Card, Spin, Button, message } from 'antd';
+import { useParams, Link } from 'react-router-dom';
 import 'antd/dist/reset.css';
 
 function ItemDetails(){

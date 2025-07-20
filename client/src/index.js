@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+console.log("React module loaded"); 
+console.trace(); // <- shows who is importing 'react'
+
 // import 'antd/dist/reset.css';
 // import 'antd/dist/antd.css';
 

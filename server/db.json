@@ -1,0 +1,73 @@
+{
+  "items":
+[
+  {
+  "id": "itm001",
+  "name": "Cordless Drill",
+  "description": "18V cordless drill, lightly used.",
+  "category": "Tools",
+  "owner": "Alice Johnson",
+  "condition": "Good",
+  "available": true,
+  "image": "https://m.media-amazon.com/images/I/61dzwNelWaL.jpg",
+  "borrowedBy": null
+  },
+  {
+  "id": "itm002",
+  "name": "Camping Tent",
+  "description": "4-person waterproof tent, easy setup.",
+  "category": "Outdoors",
+  "owner": "Brian Lee",
+  "condition": "Excellent",
+  "available": true,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSBafxtPLKwAFi-AIog101nLNELs1w8s8tpNFNOWOtRnIm2h4Qx8EMK3wNYF-Wob7Zlj-Bp0OkuNfjkUk3B8_Nvnr-hgiqpHKuw-SmNeFR6",
+  "borrowedBy": null
+
+  },
+  {
+  "id": "itm003",
+  "name": "Crock Pot",
+  "description": "Large 6-quart slow cooker, works great.",
+  "category": "Kitchen",
+  "owner": "Samantha Green",
+  "condition": "Very Good",
+  "available": false,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQndnIw6RGs45ZmYptaD---68z4TWZauVXGfFYC5VxdJ3IXdb7g7SBx-kioE-ey6f7g2V-6feZZ86RKQskIgnp4ZuBaKg4pnycoDTGmxyjx73gF6a5vpcmdXQ",
+  "borrowedBy": "Prachi Patel"
+  },
+  {
+  "id": "itm004",
+  "name": "Yoga Mat",
+  "description": "Non-slip yoga mat, 6mm thick, blue color.",
+  "category": "Fitness",
+  "owner": "Ravi Mehra",
+  "condition": "Good",
+  "available": true,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTn1y5fRoP0hUFCVW1PvVTZ9HlWcnNyLUrOxIjAIclwhOO-KTzanX4F6SfJb2foeWnOAM92iL8P4CTxBl52Q3-7b3hkvdPLPIBjLCzFL2jlbbDK6m21HILlmg",
+  "borrowedBy": null
+  },
+  {
+  "id": "itm005",
+  "name": "Ladder",
+  "description": "6-foot aluminum step ladder, sturdy.",
+  "category": "Tools",
+  "owner": "Dana Wang",
+  "condition": "Good",
+  "available": true,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRaiwQPhqQbDYNH5WTzAO6ToQetaGU1Xzfp92VQMmPyM3-MfiBJj9Ma7NH32Oo7m7YFZ-tQ2LCOJLHoAVUMhuPbL0XqNyjBe2LNZShO5a6nMKPjZEQyHoAf",
+  "borrowedBy": null
+  },
+  {
+  "id": "itm006",
+  "name": "Board Game: Settlers of Catan",
+  "description": "Complete set, all pieces included.",
+  "category": "Games",
+  "owner": "Luis García",
+  "condition": "Like New",
+  "available": true,
+  "image": "https://m.media-amazon.com/images/I/91WyDNH6ZDL._SL1500_.jpg",
+  "borrowedBy": null
+  }
+  ]
+}
+  
